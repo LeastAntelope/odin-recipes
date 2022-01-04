@@ -1,0 +1,23 @@
+* {
+    background-color: tomato;
+}
+
+h1 {
+    font-size: 64px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+img{
+    height: auto;
+    width: 500px;
+}
+
+figure {
+    text-align: center;
+    
+}
+
+figcaption {
+    font-size: 32px;
+    font-family: Arial, Helvetica, sans-serif;
+}
